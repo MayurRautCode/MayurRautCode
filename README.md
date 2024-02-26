@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mayur Raut</h1>
-<h3 align="center">An enthusiastic Front-End Web Developer with a Strong knowledge of HTML, CSS, JavaScript, Git & Github.</h3>
+<h1 align="center">👋 Hello World! I'm Mayur Raut</h1>
+<h3 align="center"> An passionate front-end developer with a love for crafting beautiful and intuitive user interfaces.
+
+💻 I specialize in HTML, CSS, and JavaScript, with expertise in modern frameworks like React.js.
+
+🎨 I have an eye for design and enjoy creating pixel-perfect layouts that not only look great but also provide seamless user experiences.
+
+Happy coding! ✨</h3>
 
 - 👨‍💻 All of my projects are available Here.
 
